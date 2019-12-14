@@ -1,0 +1,57 @@
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.exe.config
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.exe
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IDomainServices.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Services.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IDomainServices.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.dll.config
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.ViewModels.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.EntityModels.dll.config
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.csprojAssemblyReference.cache
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.csproj.CopyComplete
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.exe
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.pdb
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.dll.config
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\Newtonsoft.Json.dll
+D:\codepractice-prj\PrometricTest\1.Main\MV.Prometric.Tests.Main\bin\Debug\Newtonsoft.Json.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.exe.config
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.exe
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Tests.Main.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IDomainServices.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\Newtonsoft.Json.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\StructureMap.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Services.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IDomainServices.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.ViewModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.IRepositories.dll.config
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\MV.Prometric.Repositories.dll.config
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\Newtonsoft.Json.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\bin\Debug\StructureMap.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.csprojAssemblyReference.cache
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.csproj.CopyComplete
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.exe
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\1.Main\MV.Prometric.Tests.Main\obj\Debug\MV.Prometric.Tests.Main.pdb

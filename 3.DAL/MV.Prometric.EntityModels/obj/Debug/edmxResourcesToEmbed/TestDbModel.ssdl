@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TestDb.dbo.Vehicle' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Vehicle">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="ModelName" />
+      <PropertyRef Name="MpgValue" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ModelName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Color" Type="nvarchar" MaxLength="50" />
+    <Property Name="MpgValue" Type="numeric" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TestDbModelStoreContainer">
+    <EntitySet Name="Vehicle" EntityType="Self.Vehicle" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Vehicle].[Id] AS [Id], 
+    [Vehicle].[ModelName] AS [ModelName], 
+    [Vehicle].[Color] AS [Color], 
+    [Vehicle].[MpgValue] AS [MpgValue]
+    FROM [dbo].[Vehicle] AS [Vehicle]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

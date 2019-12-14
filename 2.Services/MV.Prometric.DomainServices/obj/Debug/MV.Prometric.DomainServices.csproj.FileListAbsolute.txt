@@ -1,0 +1,37 @@
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.Services.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IDomainServices.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.EntityModels.dll.config
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.dll.config
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IDomainServices.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.ViewModels.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.DomainServices.csprojAssemblyReference.cache
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.DomainServices.csproj.CopyComplete
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.Services.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.Services.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IDomainServices.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\StructureMap.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IRepositories.dll.config
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.IDomainServices.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\MV.Prometric.ViewModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\StructureMap.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.DomainServices.csprojAssemblyReference.cache
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.DomainServices.csproj.CopyComplete
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.Services.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\2.Services\MV.Prometric.DomainServices\obj\Debug\MV.Prometric.Services.pdb

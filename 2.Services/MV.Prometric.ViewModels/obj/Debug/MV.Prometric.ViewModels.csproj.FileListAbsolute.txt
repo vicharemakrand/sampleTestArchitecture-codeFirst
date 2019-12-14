@@ -1,0 +1,4 @@
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.ViewModels\bin\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.ViewModels\bin\Debug\MV.Prometric.ViewModels.pdb
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.ViewModels\obj\Debug\MV.Prometric.ViewModels.dll
+D:\codepractice-prj\PrometricTest\2.Services\MV.Prometric.ViewModels\obj\Debug\MV.Prometric.ViewModels.pdb

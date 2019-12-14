@@ -1,0 +1,21 @@
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\MV.Prometric.EntityModels.dll.config
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.csprojAssemblyReference.cache
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.csproj.CopyComplete
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\PrometricTest\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\MV.Prometric.EntityModels.pdb
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.csprojAssemblyReference.cache
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.csproj.CopyComplete
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.dll
+D:\codepractice-prj\SampleTestArchitecture - codeFirst\3.DAL\MV.Prometric.EntityModels\obj\Debug\MV.Prometric.EntityModels.pdb
